@@ -1,21 +1,21 @@
 # Analisis-de-datos-2025
-Estructura de datos:
+## Estructura de datos
+
 Analisis-de-datos-2025/
 │
-├── Data/                # Carpeta de datos
-│   ├── Raw/             # Archivos de datos originales (NO versionados en Git)
-│   └── Processed/       # Datos procesados listos para análisis
+├── Data/ # Carpeta de datos
+│ ├── Raw/ # Archivos de datos originales (NO versionados en Git)
+│ └── Processed/ # Datos procesados listos para análisis
 │
-├── Notebooks/           # Jupyter Notebooks con análisis principales
-│   └── Chile.ipynb      # Notebook principal de trabajo
+├── Notebooks/ # Jupyter Notebooks con análisis principales
+│ └── Chile.ipynb # Notebook principal de trabajo
 │
-├── Reports/             # Reportes generados
-├── Scripts/             # Scripts auxiliares en Python
+├── Reports/ # Reportes generados
+├── Scripts/ # Scripts auxiliares en Python
 │
-├── requirements.txt     # Dependencias del proyecto
-├── .gitignore           # Archivos ignorados en git
-└── README.md            # Este archivo
-
+├── requirements.txt # Dependencias del proyecto
+├── .gitignore # Archivos ignorados en git
+└── README.md # Este archivo
 
 
 Paso 1 Clonar repositorio 
