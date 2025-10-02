@@ -1,6 +1,4 @@
-# ===========================
-# IGNORAR DATOS PESADOS
-# ===========================
+
 Data/Raw/**
 Data/Processed/**/*.dat
 Data/Processed/**/*.tif
@@ -15,16 +13,16 @@ Data/Processed/**/*.tif
 *.cpg
 *.xml
 
-# ===========================
+
 # NOTEBOOKS / TEMPORALES
-# ===========================
+
 *.ipynb_checkpoints/
 *.pyc
 __pycache__/
 
-# ===========================
+
 # SISTEMA OPERATIVO / EDITORES
-# ===========================
+
 .DS_Store
 Thumbs.db
 .vscode/
