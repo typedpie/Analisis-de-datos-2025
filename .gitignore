@@ -1,0 +1,30 @@
+# ===========================
+# IGNORAR DATOS PESADOS
+# ===========================
+Data/Raw/**
+Data/Processed/**/*.dat
+Data/Processed/**/*.tif
+
+# Shapefiles y complementos (pesados, binarios)
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.cpg
+*.xml
+
+# ===========================
+# NOTEBOOKS / TEMPORALES
+# ===========================
+*.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# ===========================
+# SISTEMA OPERATIVO / EDITORES
+# ===========================
+.DS_Store
+Thumbs.db
+.vscode/
