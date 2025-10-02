@@ -1,0 +1,9 @@
+pip install -r requirements.txt
+
+geopandas
+numpy
+matplotlib
+shapely
+rasterio
+rasterstats
+pandas
