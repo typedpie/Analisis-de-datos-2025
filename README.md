@@ -1,7 +1,7 @@
 # Analisis-de-datos-2025
 
 ## Estructura de datos
-
+```bash
 Analisis-de-datos-2025/
 │
 ├── Data/ # Carpeta de datos
