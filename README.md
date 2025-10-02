@@ -1,4 +1,5 @@
 # Analisis-de-datos-2025
+
 ## Estructura de datos
 
 Analisis-de-datos-2025/
@@ -17,19 +18,21 @@ Analisis-de-datos-2025/
 ├── .gitignore # Archivos ignorados en git
 └── README.md # Este archivo
 
+## Pasos para ejecutar el proyecto
 
-Paso 1 Clonar repositorio 
+### Paso 1 Clonar repositorio 
+```bash
 git clone https://github.com/typedpie/Analisis-de-datos-2025.git
 cd Analisis-de-datos-2025
 
-Paso 2 crear entorno virtual
+### Paso 2 crear entorno virtual
 python -m venv venv
 venv\Scripts\activate #windows
 
-Paso 3 Instalar dependencias
+### Paso 3 Instalar dependencias
 pip install -r requirements.txt
 
-Paso 4 descarga de archivos
+### Paso 4 descarga de archivos
 Data/Raw
 
 
