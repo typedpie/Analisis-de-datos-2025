@@ -21,7 +21,7 @@ Analisis-de-datos-2025/
 ## Pasos para ejecutar el proyecto
 
 ### Paso 1 Clonar repositorio 
-```bash
+
 git clone https://github.com/typedpie/Analisis-de-datos-2025.git
 cd Analisis-de-datos-2025
 
