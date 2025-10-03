@@ -1,4 +1,7 @@
+# Carpetas de reportes generados
+Reports/
 
+#carpeta de datos
 Data/Raw/**
 Data/Processed/**/*.dat
 Data/Processed/**/*.tif

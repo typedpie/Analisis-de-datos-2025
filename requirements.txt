@@ -8,3 +8,6 @@ rasterio
 rasterstats
 pandas
 openpyxl
+scipy
+seaborn
+mapclassify
